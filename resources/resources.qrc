@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>./images/test.jpg</file>
+        <file>./images/start_background.jpg</file>
+        <file>./images/setting_background.jpg</file>
+        <file>./images/select_background.jpg</file>
+        <file>./images/result_background.jpg</file>
+        <file>./images/game_background.jpg</file>
+        <file>./images/tap_note.jpg</file>
+        <file>./images/hold_note_body.jpg</file>
+        <file>./music/Bloom of Youth.mp3</file>
+        <file>./music/Moon in One's Cup.mp3</file>
+        <file>./music/Flower Dance.mp3</file>
+        <file>./images/back_icon.png</file>
+        <file>./images/continue_icon.png</file>
+        <file>./images/exit_icon.png</file>
+    </qresource>
+</RCC>
